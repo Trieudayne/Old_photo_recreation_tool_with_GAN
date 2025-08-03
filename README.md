@@ -1,1 +1,1 @@
-Run main.py then chose img to upscale
+Run main.py then select img to upscale
